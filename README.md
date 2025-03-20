@@ -1,9 +1,8 @@
 # Habit-Flow
-# Habit Tracker
 
 ## Overview
 
-This is a **Habit Tracker** application built using **React 19** with **TypeScript**. It allows users to add, mark habits as completed, and remove habits. State management is handled using **Zustand**, and the UI is designed with **Material-UI (MUI)**.
+This is a **Habit Flow** application built using **React 19** with **TypeScript**. It allows users to add, mark habits as completed, and remove habits. State management is handled using **Zustand**, and the UI is designed with **Material-UI (MUI)**.
 
 ## Features
 
